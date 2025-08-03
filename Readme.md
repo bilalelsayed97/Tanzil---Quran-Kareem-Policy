@@ -1,9 +1,9 @@
-## Privacy Policy for [Tanzil - Quran Kareem]  
+## Privacy Policy for [Zikr]  
 
 
 ## Introduction
 
-Welcome to [Tanzil - Quran Kareem], a Quran application with Tafsir and search features. This Privacy Policy is designed to inform you about how we handle your data while using our app. Your privacy is important to us, and we do not collect any personal information or data from users.
+Welcome to [Zikr], a Quran application with Tafsir and search features. This Privacy Policy is designed to inform you about how we handle your data while using our app. Your privacy is important to us, and we do not collect any personal information or data from users.
 
 ---
 
