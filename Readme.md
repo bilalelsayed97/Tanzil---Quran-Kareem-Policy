@@ -50,13 +50,6 @@ We take reasonable precautions to protect your data from unauthorized access, al
 
 ---
 
-## Children's Privacy
-
-Our app is not intended for use by children under the age of 13. We do not knowingly collect personal data from children. If we discover that a child under 13 has provided personal data, we will take steps to delete such information.
-
----
-
-
 ## Changes to this Privacy Policy
 
 We may update our Privacy Policy from time to time. Any changes will be reflected in this document. We encourage you to review this Privacy Policy periodically to stay informed about how we are protecting your data.
